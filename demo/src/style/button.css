@@ -1,0 +1,20 @@
+.primary{
+    background-color: blue;
+    margin: 10px 50px;
+    padding: 10px;
+    color: white;
+}
+
+.secondary{
+    background-color: gray;
+    margin: 10px 50px;
+    padding: 10px;
+    color: yellow;
+}
+
+.danger{
+    background-color: red;
+    margin: 10px 50px;
+    padding: 10px;
+    color: white;
+}
